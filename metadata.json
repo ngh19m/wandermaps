@@ -1,0 +1,8 @@
+{
+  "name": "WanderMark",
+  "description": "Personal map and GenAI assistant to store memories and discover places.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
